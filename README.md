@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dungu98
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning с#, py
-- 💞️ I’m looking to collaborate on woman
+- 💞️ I’m looking to collaborate а woman
 - 📫 How to reach me ...
 
 <!---
